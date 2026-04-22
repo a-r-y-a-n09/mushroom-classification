@@ -28,3 +28,9 @@ This project focuses on classifying mushrooms as **edible or poisonous** using m
 - Model evaluation and tuning
 
 ## 📂 Project Structure
+mushroom-classification/
+├── mushroom-classification-end-to-end.ipynb
+├── train.csv
+├── test.csv
+├── SampleSubmission.csv
+
